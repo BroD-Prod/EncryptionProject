@@ -1,0 +1,113 @@
+:: StoryTitle
+Encryption
+
+
+:: StoryData
+{
+  "ifid": "7384ADBF-EC72-417E-8E6D-B5DA88FD819C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Accept The Challenge {"position":"300,125","size":"100,100"}
+So, heres's your money. We've set up your own person website and server with a counter, very 90's style, with low security. This counter is behind a login page, where if they get in, they will take some. Maybe a little, maybe a lot. 
+
+So how will you stop people from changing your site?
+
+[[Sit Back And Relax!]]
+[[Make Your Website HTTPS Certified]]
+[[DESTROY]]
+
+
+:: DESTROY {"position":"300,300","size":"100,100"}
+Well you destoryed the computer and server...
+
+I don't think any hackers are getting your data now though.
+
+YOU LOSE
+
+<img src = "https://www.colocationamerica.com/picts/blog/data-center-fire.jpg">
+
+
+:: Don't Accept {"position":"850,150","size":"100,100"}
+Well, you didn't even take the chance!
+
+At least nobody has access to your accounts, but now you don't have 100,000 dollars.
+
+YOU LOSE?
+
+
+:: Encrypt The Database! {"position":"450,550","size":"100,100"}
+So now you have an encrypted server? Sounds like you really know what you're doing.  It's week 3, so you know what that means! Let check your counter and see how much you won!
+
+100,000
+
+A Perfect Score! Which means you get 100,00$ ! I hope you enjoyed Encypt It or Rip It Folks! We'll see you next time.
+
+<img src = "https://www.cnet.com/a/img/resize/2d480a20f66467bde353f72ab62218beb0c2f0f0/hub/2018/08/14/33279ccc-dde1-48df-80cb-2a0df2427e4c/john-mcafee-burning-money.jpg?auto=webp&fit=crop&height=675&width=1200">
+
+
+:: Get A Firewall! {"position":"450,425","size":"100,100"}
+So you picked cloudflare? Sounds about right, but still, they couldn't send any malicous requests to your server and affect it in anyway. No Cross Site Scripts or SQL Injections are coming your way. 
+
+What now?
+
+[[I Already Got It All!]]
+[[Encrypt The Database!]]
+[[Trust A "Sertified Security Specielast"]]
+
+
+:: I Already Got It All! {"position":"150,550","size":"100,100"}
+You were almost there! Your firewall was good enough to stop our script kiddies, but once the pros got in there they found a backdoor, and didn't even need break sweat to get the information they were looking for. Protection helps, but not helpful if attackers can find a way past it!
+
+YOU LOSE!
+
+<img src = "https://www.shutterstock.com/image-photo/young-man-portrait-splash-effect-600nw-159244292.jpg">
+
+
+:: Make Your Website HTTPS Certified {"position":"450,300","size":"100,100"}
+So you got your SSL Certfiicate? Good Job! Now people can't see everytime you login to make sure your money is still there. It's week 2, and the attacks are ramping up, what do you do now? 
+
+[[That's As Good As It Gets!]]
+[[Get A Firewall!]]
+
+
+:: Sit Back And Relax! {"position":"150,300","size":"100,100"}
+Well it looks like you didn't take the necessary steps to protect your system, and those darn hackers all of your money! Everytime you logged on to look at your money one of our hackers got your credentials from the server! You just couldn't keep your eyes of that money could you?
+
+YOU LOST!
+
+<img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG8KATK3mlyjlV-8eCxK3rhq7yzmb4hbsebw3x0ObTAEvpqiTdsz59BWwb3OkIOcew6QHU6blaigmheRJbq9U60Fj2cyyjWKP3nyk9SHOxwQwh6AlQbQ7wmvBHFSL6KVgVdmeCHMWW5LCo/s728-rw-e365/Criminals+Switch+to+new+Virtual+Currency+'Perfect+Money'+after+Liberty+Reserve+takedown.jpg">
+
+
+:: Start {"position":"600,0","size":"100,100"}
+<img src="https://www.stockvault.net/data/2008/03/09/104658/thumb16.jpg">
+Welcome to Encrypt It, or Rip It
+
+The Only Gameshow where the hardest part is *keeping* the money.
+
+We'll give you 100,000$ right off the bat, but we'll try to take it back. Over the next three weeks we will try to find a way into every single place this dollar finds itself and only you can protect it. It's inside the basic server and frontend website where viewers can visit to see the counter, but only you have the login credentials. The server and computer must stay up and running the entire challenge!
+ 
+ Will you accept?
+
+[[Accept The Challenge]]
+[[Don't Accept]]
+
+
+:: That's As Good As It Gets! {"position":"150,425","size":"100,100"}
+So you thought it was over? Well you shoulda thought different! Once they figured out they couldn't get into the website through you, they went for your server. That firewall would have stopped those hackers from sending malicious scripts and breaking in, but without, it was like taking candy from a baby.
+
+YOU LOSE!
+
+<img src = "https://www.siliconrepublic.com/wp-content/uploads/2016/09/Monkeys-at-laptop-718x523.jpg">
+
+
+:: Trust A "Sertified Security Specielast" {"position":"300,550","size":"100,100"}
+You reall fell for that and gave the guy who can't spell "Certified" the credentials to your website? This was his profile picture, does it look like you can trust this guy with anything?
+
+<img src = "https://cdn.britannica.com/80/238480-050-2BD22C05/Sam-Bankman-Fried-FTX.jpg?w=385">
+
+YOU LOSE
